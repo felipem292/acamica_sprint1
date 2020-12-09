@@ -204,3 +204,10 @@ li a:hover {
 .footer-social-media a {
   margin: 1rem;
 }
+
+@media (min-width: 800px) {
+  .footer {
+    margin-top: 10rem;
+    text-align: center;
+  }
+}
